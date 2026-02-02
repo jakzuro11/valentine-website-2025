@@ -49,7 +49,7 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Fajnie! Od razu dzień lepszy! 🎉💝💖💝💓",
+        title: "Fajnie! To dogadane! 🎉💝💖💝💓",
         message: "W nagrodę buziaki i przytulasy bedą!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
