@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Olguś",
+    valentineName: "Olga",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
@@ -49,7 +49,7 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! Od razu dzień lepszy! 🎉💝💖💝💓",
+        title: "Fajnie! Od razu dzień lepszy! 🎉💝💖💝💓",
         message: "W nagrodę buziaki i przytulasy bedą!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
